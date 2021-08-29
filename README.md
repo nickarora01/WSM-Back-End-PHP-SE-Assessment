@@ -3,15 +3,15 @@ It is assessment for WSM as a part of their Backend Assessment
 <br>
 <br>
 The project requires the mongodb to be installed on the system:<br>
-<br>
 Link to download: https://docs.mongodb.com/manual/administration/install-community/
 <br>
-The project also requires php xampp to be downloaded:<br>
 <br>
+The project also requires php xampp to be downloaded:<br>
 Link to downlaod: https://www.apachefriends.org/download.html
 <br>
 <br>
 The project also requires mongodb extension in php
+<br>
 Link to dll files(in case of windows):https://pecl.php.net/package/mongodb <br>
 Link to download automatically(for Linux,Mac):Type in your cmd
 <br>
