@@ -18,6 +18,7 @@ Link to download automatically(for Linux,Mac):Type in your cmd
 <br>
 ```sudo pecl install mongodb```
 <br>
+<br>
 and later on type in your php.ini file(for windows users)
 <br>
 ```extension=php_mongodb.dll```
