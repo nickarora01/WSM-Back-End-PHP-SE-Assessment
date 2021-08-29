@@ -13,13 +13,12 @@ Link to downlaod: https://www.apachefriends.org/download.html
 The project also requires mongodb extension in php
 <br>
 Link to dll files(in case of windows):https://pecl.php.net/package/mongodb <br>
+<br>
 Link to download automatically(for Linux,Mac):Type in your cmd
 <br>
 ```sudo pecl install mongodb```
 <br>
-<br>
-and later on type in your php.ini file
-<br>
+and later on type in your php.ini file(for windows users)
 <br>
 ```extension=php_mongodb.dll```
 <br>
