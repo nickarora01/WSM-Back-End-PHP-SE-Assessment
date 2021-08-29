@@ -27,9 +27,11 @@ The project also requires some extensions from composer :
 <br>
 Link to download(composer):https://getcomposer.org/download/
 <br>
+<br>
 After installing run following command in your terminal:
 <br>
 ```composer requre mongodb/mongodb```
+<br>
 <br>
 And after the paste the following code of index.php in your htdocs folder and insert required data in your mongodb database
 
