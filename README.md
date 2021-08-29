@@ -17,12 +17,14 @@ Link to download automatically(for Linux,Mac):Type in your cmd
 <br>
 ```sudo pecl install mongodb```
 <br>
+<br>
 and later on type in your php.ini file
 <br>
-```extension=php_mongodb.dll```
-<br>               
-The project also requires some extensions from composer :
 <br>
+```extension=php_mongodb.dll```
+<br>
+<br>
+The project also requires some extensions from composer :
 <br>
 Link to download(composer):https://getcomposer.org/download/
 <br>
